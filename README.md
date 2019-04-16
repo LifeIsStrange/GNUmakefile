@@ -1,6 +1,6 @@
 # GNUmakefile
 
-This aim of this project is to enjoy the powerful of plain [GNU Makefile](https://www.gnu.org/software/make/).
+This aim of this project is to enjoy the power of plain [GNU Makefile](https://www.gnu.org/software/make/).
 It is a personal attempt to satisfy every needs when compiling a project.
 
 This project is intended to better understand the limits of [GNU Makefile](https://www.gnu.org/software/make/) and the needs to have tools like [CMake](https://www.cmake.org/) or [GNU autotools](https://www.gnu.org/software/automake/).
@@ -39,4 +39,4 @@ The utopic goal:
 
 ## How to use this project?
 
-A wiki will be added if many goals is achieved.
+A wiki will be added if many goals are achieved.
